@@ -2,7 +2,7 @@
 
 **This is a fork of the great [Klaro](https://klaro.kiprotect.com/) consent manager.**
 
-# **Moved to (Repository of Curry Solutions GmbH)[https://github.com/curry-solutions/curryKlaro]** This Repository is no longer maintained.
+# **Moved to [Repository of Curry Solutions GmbH](https://github.com/curry-solutions/curryKlaro)** This Repository is no longer maintained.
 
 curryKlaro [klɛro] is a simple consent manager that helps you to be transparent about the third-party applications on your website. It is designed to be extremely simple, intuitive and easy to use while allowing you to be compliant with all relevant regulations (notably GDPR and ePrivacy).
 
